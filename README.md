@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am learning everything with Fun and consistency
 ## LEETCODE PROFILE
 https://leetcode.com/u/deepakcode999/
+[![Deepak’s github stats](https://github-readme-stats.vercel.app/api?username=deepakcode607)](https://github.com/deepakcode607)
+
+
 
