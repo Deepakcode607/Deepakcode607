@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **frontend development, competitive Programming**
 
-- 📫 How to reach me **gainarka@gmail.com**
+- 📫 How to reach me **deepakkumar1922002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
