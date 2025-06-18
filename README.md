@@ -41,8 +41,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Deepakcode607&show_icons=true&locale=en" alt="Deepakcode607" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepakcode607&" alt="Deepakcode607" /></p>
-<br>
+
 <h3 align="center">My interests:</h3>
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;React+Js" width="auto" height="35"/>
