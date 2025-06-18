@@ -49,9 +49,7 @@
 <p align="center">Currently learning - Machine Learning</p>
 <p align="center">Currently working on - Private Projects</p>
 <br>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepakcode607&theme=radical&hide_border=true" alt="Deepak's GitHub streak"/>
-</p>
+
 
 
 
