@@ -44,7 +44,7 @@
 
 <h3 align="center">My interests:</h3>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;React+Js" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Web+Development;Artificial+Intelligence;Machine+Learning;React+Js" width="auto" height="35"/>
 </p>
 <p align="center">Currently learning - Machine Learning</p>
 <p align="center">Currently working on - Private Projects</p>
