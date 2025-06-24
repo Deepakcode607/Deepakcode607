@@ -49,6 +49,20 @@
 <p align="center">Currently learning - Machine Learning</p>
 <p align="center">Currently working on - Private Projects</p>
 <br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="200">
+</p>
+
+
+
+
+
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=EE0BB4&width=435&lines=Thank+You+Visit+Again+" alt="Typing SVG" alt="Typing SVG"" />
+  </a>
+</p>
 
 
 
